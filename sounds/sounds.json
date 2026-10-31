@@ -1,0 +1,47 @@
+[
+  {
+    "label": "Stefan",
+    "file": "stefan.mp3",
+    "emoji": "👁️"
+  },
+  {
+    "label": "Max",
+    "file": "max.mp3",
+    "emoji": "🔫"
+  },
+  {
+    "label": "Benni",
+    "file": "benni.mp3",
+    "emoji": "🤘"
+  },
+  {
+    "label": "Nina",
+    "file": "nina.mp3",
+    "emoji": "♀️"
+  },
+  {
+    "label": "Eric",
+    "file": "eric.mp3",
+    "emoji": "🦈"
+  },
+  {
+    "label": "Patrick",
+    "file": "patrick.mp3",
+    "emoji": "💀"
+  },
+  {
+    "label": "Christoph",
+    "file": "christoph.mp3",
+    "emoji": "🌼"
+  },
+  {
+    "label": "Fabian",
+    "file": "fabi.mp3",
+    "emoji": "⚰️"
+  },
+  {
+    "label": "Dani",
+    "file": "dani.mp3",
+    "emoji": "❤️"
+  }
+]
